@@ -1,0 +1,17 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : Meer weten
+  subtitle : Details
+  content : Meer weten, stuur een email of vul bijgevoegd formulier in 
+  form_action: "https://formspree.io/xzbjzboq" #contact form works with https://formspree.io
+
+  contact_details :
+    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      info : "Rotterdam, centrum"
+      
+    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      info : "Phone: +31 6 411 09 014"
+      
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "Email: info@shizzkitchen.com"

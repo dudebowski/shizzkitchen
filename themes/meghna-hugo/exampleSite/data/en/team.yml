@@ -1,0 +1,21 @@
+############################### team ############################
+team:
+  enable : true
+  title : ikke
+  team_member :
+    # team member loop
+    - name : Thijs Mutter
+      image_webp : images/team/profilepic.webp
+      image : images/team/profilepic.jpg
+      designation : Freelance kookkracht
+      content : Ik ben Thijs Mutter. Ik heb inmiddels zeven jaar ervaring in verschillende keukens, van vlees tot vis , van haute friture tot haute cuisine.
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.facebook.com/thijs.mutter"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "https://twitter.com/shizztizz"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/thijs-mutter-75a880188/"
+        - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.instagram.com/shizzkitchen/"
+ 

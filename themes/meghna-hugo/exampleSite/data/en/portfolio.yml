@@ -1,0 +1,160 @@
+#################################### portfolio ###############################
+portfolio:
+  enable : true
+  title : foto's
+  portfolio_item :
+    # portfolio item loop
+    - name : desert
+      image : images/portfolio/desert_1.jpg
+      image_webp : images/portfolio/desert_1.webp
+      categories : ["dessert"]
+      content : ijs
+      link : "#"
+
+    - name : desert
+      image : images/portfolio/desert_2.jpg
+      image_webp : images/portfolio/desert_2.webp
+      categories : ["dessert"]
+      content : ijs
+      link : "#"
+
+    - name : messen
+      image : images/portfolio/knives.jpeg
+      image_webp : images/portfolio/knives.webp
+      categories : ["tools"]
+      content : messen
+      link : "#"
+
+
+    - name : toetje
+      image : images/portfolio/desert_3.jpeg
+      image_webp : images/portfolio/desert_3.webp
+      categories : ["dessert"]
+      content : lekker ijs
+      link : "#"
+
+    - name : messen
+      image : images/portfolio/knives_2.jpg
+      image_webp : images/portfolio/knives_2.webp
+      categories : ["tools"]
+      content : messen
+      link : "#"
+
+    - name : lamsrack
+      image : images/portfolio/lamsrack.jpg
+      image_webp : images/portfolio/lamsrack.webp
+      categories : ["main"]
+      content : lamsrack
+      link : "#"
+
+    - name : main_1
+      image : images/portfolio/main_1.png
+      image_webp : images/portfolio/main_1.webp
+      categories : ["main"]
+      content : main_1
+      link : "#"
+
+    - name : main_2
+      image : images/portfolio/main_2.png
+      image_webp : images/portfolio/main_2.webp
+      categories : ["main"]
+      content : main_2
+      link : "#"
+
+    - name : lamsrack
+      image : images/portfolio/main_lamsrack.jpg
+      image_webp : images/portfolio/main_lamsrack.webp
+      categories : ["main"]
+      content : lamsrack
+      link : "#"
+
+    - name : main_bbq
+      image : images/portfolio/main_bbq.jpg
+      image_webp : images/portfolio/main_bbq.webp
+      categories : ["main"]
+      content : main_bbq
+      link : "#"
+
+    - name : main_chicken
+      image : images/portfolio/main_chicken.png
+      image_webp : images/portfolio/main_chicken.webp
+      categories : ["main"]
+      content : main_chicken
+      link : "#"
+
+    - name : main_chicken_2
+      image : images/portfolio/main_chicken_2.png
+      image_webp : images/portfolio/main_chicken_2.webp
+      categories : ["main"]
+      content : main_chicken_2
+      link : "#"
+
+    - name : main_fruitdemer
+      image : images/portfolio/main_fruitdemer.jpg
+      image_webp : images/portfolio/main_fruitdemer.webp
+      categories : ["main"]
+      content : main_fruitdemer
+      link : "#"
+
+    - name : main_ham
+      image : images/portfolio/main_ham.jpg
+      image_webp : images/portfolio/main_ham.webp
+      categories : ["main"]
+      content : main_ham
+      link : "#"
+
+    - name : main_lobster
+      image : images/portfolio/main_lobster.jpg
+      image_webp : images/portfolio/main_lobster.webp
+      categories : ["main"]
+      content : main_lobster
+      link : "#"
+
+    - name : main_main_lobsterham
+      image : images/portfolio/main_lobster.jpg
+      image_webp : images/portfolio/main_lobster.webp
+      categories : ["main"]
+      content : main_lobster
+      link : "#"
+
+    - name : main_salmon
+      image : images/portfolio/main_salmon.jpg
+      image_webp : images/portfolio/main_salmon.jpg.webp
+      categories : ["main"]
+      content : main_salmon
+      link : "#"
+
+    - name :  main_staketartaar
+      image : images/portfolio/ main_staketartaar.png
+      image_webp : images/portfolio/main_staketartaar.webp
+      categories : ["main"]
+      content :  main_staketartaar
+      link : "#"
+     
+    - name :  main_varkenswang
+      image : images/portfolio/main_varkenswang.png
+      image_webp : images/portfolio/main_varkenswang.webp
+      categories : ["main"]
+      content : main_varkenswang
+      link : "#"
+
+    - name :  starter_fishsoup
+      image : images/portfolio/starter_fishsoup.jpeg
+      image_webp : images/portfolio/starter_fishsoup.webp
+      categories : ["starter"]
+      content : starter_fishsoup
+      link : "#"
+
+    - name :  starter_soup
+      image : images/portfolio/starter_soup.jpg
+      image_webp : images/portfolio/starter_soup.webp
+      categories : ["starter"]
+      content : starter_soup
+      link : "#"
+
+    - name :  starter_squid
+      image : images/portfolio/starter_squid.jpg
+      image_webp : images/portfolio/starter_squid.webp
+      categories : ["starter"]
+      content : starter_squid
+      link : "#"
