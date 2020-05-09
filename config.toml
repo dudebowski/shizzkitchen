@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://shizzkitchen.com"
+baseURL = "https://shizzkitchen.onrender.com"
 title = "Shizzkitchen"
 theme = "meghna-hugo"
 # post pagination
