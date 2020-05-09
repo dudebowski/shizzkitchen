@@ -1,4 +1,4 @@
-# Website shizzkitchen with hugo and meghna theme 
+# Website shizzkitchen
 
 Website with meghna hugo theme 
 
