@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://shizzkitchen.com"
+baseURL = "https://www.shizzkitchen.com"
 title = "Shizzkitchen"
 theme = "meghna-hugo"
 # post pagination
