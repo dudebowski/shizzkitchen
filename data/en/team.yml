@@ -8,7 +8,7 @@ team:
       image_webp : images/team/profilepic.webp
       image : images/team/profilepic.jpg
       designation : Freelance kookkracht
-      content : Ik ben Thijs Mutter. Ik heb inmiddels zeven jaar ervaring in verschillende keukens, van vlees tot vis , van haute friture tot haute cuisine.
+      content : Ik ben Thijs Mutter. Ik heb inmiddels zeven jaar ervaring in verschillende keukens. Van vlees tot vis , van haute friture tot haute cuisine.
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
           link : "https://www.facebook.com/thijs.mutter"
