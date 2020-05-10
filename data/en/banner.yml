@@ -5,7 +5,7 @@ banner:
   bg_image : "images/backgrounds/front.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "Thijs Mutter"
-  content : "FREELANCE KOOKKRACHT thijs@shizzkitchen.com 06 41109014"
+  content : "FREELANCE KOOKKRACHT thijs@shizzkitchen.com"
   button:
     enable : true
     label : "welkom"
